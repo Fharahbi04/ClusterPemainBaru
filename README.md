@@ -1,2 +1,5 @@
-Clusterisasi Data Pemain/Anggota baru UKM SEPAKBOLA
-Clusterisasi menggunakan KMeans
+- Clusterisasi Data Pemain/Anggota baru UKM SEPAKBOLA
+
+
+
+- Clusterisasi menggunakan KMeans
